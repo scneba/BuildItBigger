@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokes display libary</string>
+    <string name="jokes">Jokes</string>
+    <string name="action_settings">Settings</string>
+</resources>
